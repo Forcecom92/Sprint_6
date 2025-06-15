@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from page.base_page import BasePage
+from pages.base_page import BasePage
 import allure
 from data import ITEMS
 
